@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Fabrizzio Orderique 6.1040 Portfolio"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "Fabrizzio Orderique Portfolio"
+  text: "6.1040 TA"
+  tagline: porderiq@mit.edu
   actions:
     - theme: brand
       text: Markdown Examples
@@ -15,11 +15,7 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: contact
+    details: Please contact the staff at 61040-staff@mit.edu or me at porderiq@mit.edu if you need help. Have a great semester!
 ---
 
